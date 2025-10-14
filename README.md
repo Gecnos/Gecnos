@@ -21,7 +21,7 @@
 <td valign="top" width="50%">
 
 ### ⚙️ *Mes Domaines*
-- 💻 *Développement Web & Mobile*
+- 💻 *Développement Web *
 - 🔧 *Backend & APIs*
 - 🎨 *UI/UX minimaliste & responsive*
 - ☁️ *Architecture & DevOps*
