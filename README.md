@@ -99,6 +99,61 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gecnos&layout=compact&theme=tokyonight&hide_border=true" />
 <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gecnos&theme=tokyo-night&hide_border=true&area=true" />
 </div>
+---
+
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"> *Coding Activity*
+
+<div align="center">
+
+### *WakaTime Weekly Stats*
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### *Random Dev Quote*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> *Featured Projects*
+
+<div align="center">
+
+<a href="https://github.com/Gecnos/site-vote-miss">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gecnos&repo=miss-esgis&theme=tokyonight&hide_border=true" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Gecnos/marketplace-prestataires">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gecnos&repo=marketplace&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> *Top Contributed Repositories*
+
+<div align="center">
+ <img src="https://github-contributor-stats.vercel.app/api?username=Gecnos&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> *Visitor Count*
+
+<img src="https://visitcount.itsvg.in/api?id=Gecnos&icon=2&color=6" />
+
+### *Merci pour ta visite ! Connectons-nous et construisons quelque chose d’incroyable ensemble 🚀*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
+
+</div>
+
+---
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💼+Ouvert+à+de+nouvelles+collaborations;🚀+Construisons+des+projets+utiles+ensemble;📧+vianneyhoueho@gmail.com" alt="Footer animation" />
