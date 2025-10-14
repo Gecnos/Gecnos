@@ -21,20 +21,18 @@
 <td valign="top" width="50%">
 
 ### ⚙️ *Mes Domaines*
-- 💻 *Développement Web *
+- 💻 *Développement Web*
 - 🔧 *Backend & APIs*
 - 🎨 *UI/UX minimaliste & responsive*
 - ☁️ *Architecture & DevOps*
-
 
 </td>
 <td valign="top" width="50%">
 
 ### 🚀 *Projets Actuels*
--  *Site de vote pour élection de miss* 
--  *Clone de facebook*
-- *Maerketplace prestataire locaux*
-
+- *Site de vote pour élection de miss*  
+- *Clone de Facebook*  
+- *Marketplace de prestataires locaux*
 
 </td>
 </tr>
@@ -52,7 +50,6 @@
 &nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1011044152001171539)
 &nbsp;&nbsp;
-
 
 </div>
 
@@ -94,16 +91,14 @@
 ## 📊 *GitHub Analytics*
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VianneyDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VianneyDev&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gecnos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gecnos&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VianneyDev&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=VianneyDev&theme=tokyo-night&hide_border=true&area=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gecnos&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gecnos&theme=tokyo-night&hide_border=true&area=true" />
 </div>
-
-
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💼+Ouvert+à+de+nouvelles+collaborations;🚀+Construisons+des+projets+utiles+ensemble;📧+vianneyhoueho@gmail.com" alt="Footer animation" />
