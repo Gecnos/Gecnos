@@ -130,22 +130,6 @@
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> *Top Contributed Repositories*
-
-<div align="center">
- <img src="https://github-contributor-stats.vercel.app/api?username=Gecnos&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
-
----
-
-<div align="center">
-
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> *Visitor Count*
-
-<img src="https://visitcount.itsvg.in/api?id=Gecnos&icon=2&color=6" />
-
 ### *Merci pour ta visite ! Connectons-nous et construisons quelque chose d’incroyable ensemble 🚀*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
