@@ -114,21 +114,6 @@
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> *Featured Projects*
-
-<div align="center">
-
-<a href="https://github.com/Gecnos/site-vote-miss">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gecnos&repo=miss-esgis&theme=tokyonight&hide_border=true" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Gecnos/marketplace-prestataires">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gecnos&repo=marketplace&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ### *Merci pour ta visite ! Connectons-nous et construisons quelque chose d’incroyable ensemble 🚀*
 
