@@ -46,10 +46,6 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vianneyhoueho@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vianney-houeho-a25a96361)
-&nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1011044152001171539)
-&nbsp;&nbsp;
 
 </div>
 
