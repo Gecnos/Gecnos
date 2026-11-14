@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="800" height="260" role="img" aria-labelledby="titre description">
+<title id="titre">Vianney</title>
+<desc id="description">Fondateur de plusieurs projets tech à Cotonou. Je préfère les outils simples qui règlent un vrai problème.</desc>
+<style>
+.fond{fill:#F5F1E6}
+.nom{font-family:Inter,"Helvetica Neue",Arial,sans-serif;font-weight:500;font-size:64px;fill:#0B0B0C}
+.texte{font-family:Inter,"Helvetica Neue",Arial,sans-serif;font-size:20px;fill:#3A3A3C}
+.accent{fill:#A65F00}
+.curseur{fill:#A65F00;animation:clignote 1s steps(1) infinite}
+.apparition{animation:apparait .9s ease-out both}
+@keyframes apparait{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+@keyframes clignote{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.apparition,.curseur{animation:none}}
+</style>
+<rect class="fond" width="800" height="260"/>
+<g class="apparition">
+<text class="nom" x="56" y="112">Vianney</text>
+<rect class="accent" x="56" y="134" width="72" height="4"/>
+<text class="texte" x="56" y="180">Fondateur de plusieurs projets tech à Cotonou.</text>
+<text class="texte" x="56" y="212">Je préfère les outils simples qui règlent un vrai problème.</text>
+</g>
+<rect class="curseur" x="650" y="192" width="2" height="22"/>
+</svg>
