@@ -30,7 +30,7 @@
     <td width="50%" valign="top">
       <b><a href="https://github.com/Gecnos/facedebouc">Clone Facebook</a></b><br>
       Réseau social inspiré de Facebook.<br>
-      <i>Chef de projet</i>
+      <i>Développeur</i>
     </td>
   </tr>
   <tr>
